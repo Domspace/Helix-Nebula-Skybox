@@ -1,4 +1,4 @@
 # Helix-Nebula-Skybox
-Contains two skyboxes from the Helix Nebula for Kerbal Space Program
+Contains a skybox from inside the Helix Nebula for Kerbal Space Program
 # Dependencies
 -Texture Replacer
