@@ -9,4 +9,4 @@ Contains a skybox from inside the Helix Nebula for Kerbal Space Program
 
 3.The folder should be empty
 
-4.Drop all the files in the folder(except for "readme.md")
+4.Unzip the skybox and put all files in the folder
