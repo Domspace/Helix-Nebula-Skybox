@@ -9,4 +9,6 @@ Contains a skybox from inside the Helix Nebula for Kerbal Space Program
 
 3.The folder should be empty
 
-4.Unzip the skybox and put all files in the folder
+4.Unzip the skybox and put all files in the folder(except for "Installation and License")
+
+5.Profit!
